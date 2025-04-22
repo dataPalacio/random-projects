@@ -1,0 +1,3 @@
+echo ".tmp.driveupload/" >> .gitignore
+echo "*.ipynb" >> .gitignore
+echo "proj-fifa19*" >> .gitignore
